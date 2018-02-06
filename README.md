@@ -13,7 +13,7 @@ Add the latest stable release to your mix.exs file:
 ```elixir
 defp deps do
   [
-    {:ecto_ordered, git: "https://github.com/maartenvanvliet/ecto-ordered", branch: "master"}
+    {:ecto_ordered, git: "https://github.com/viewbook/ecto-ordered", branch: "master"}
   ]
 end
 ```
